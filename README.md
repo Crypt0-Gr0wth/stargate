@@ -1,6 +1,13 @@
+## Parcours français
+
+Ce dépôt est accompagné d’un parcours documentaire en français consacré à Stargate. Voir [docs/fr/](docs/fr/).
+
 # Stargate - Composable Native Asset Bridge
 
+
 Stargate is a **composable** native asset bridge with **unified liquidity**  and **instant guaranteed finality**  built on top of the LayerZero protocol. The repository contains the smart contracts of the core protocol for stargate.
+
+
 
 
 ### Setup
@@ -12,10 +19,16 @@ Stargate is a **composable** native asset bridge with **unified liquidity**  and
 `yarn test test/Pool.test.js`
 
 
+
+
 ### Acknowledgements 
+
 
 Thank you to the core development team for helping build the Stargate smart contracts : Ryan Zarick, Isaac Zhang, Caleb Banister, Carmen Cheng and T. Riley Schwarz
 
+
 ### LICENSING
 
+
 The primary license for LayerZero is the Business Source License 1.1 (BUSL-1.1). see [`LICENSE`](./LICENSE).
+
